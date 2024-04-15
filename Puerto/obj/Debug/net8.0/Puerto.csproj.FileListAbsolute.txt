@@ -1,0 +1,14 @@
+C:\Users\frodriguezz\Desktop\Puerto\bin\Debug\net8.0\Puerto.exe
+C:\Users\frodriguezz\Desktop\Puerto\bin\Debug\net8.0\Puerto.deps.json
+C:\Users\frodriguezz\Desktop\Puerto\bin\Debug\net8.0\Puerto.runtimeconfig.json
+C:\Users\frodriguezz\Desktop\Puerto\bin\Debug\net8.0\Puerto.dll
+C:\Users\frodriguezz\Desktop\Puerto\bin\Debug\net8.0\Puerto.pdb
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.AssemblyInfoInputs.cache
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.AssemblyInfo.cs
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.csproj.CoreCompileInputs.cache
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.dll
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\refint\Puerto.dll
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.pdb
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\Puerto.genruntimeconfig.cache
+C:\Users\frodriguezz\Desktop\Puerto\obj\Debug\net8.0\ref\Puerto.dll
